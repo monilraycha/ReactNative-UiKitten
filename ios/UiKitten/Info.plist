@@ -40,6 +40,13 @@
 	<array>
 		<string>arm64</string>
 	</array>
+	<key>UIAppFonts</key>
+<array>
+  <string>Eva-Icons.ttf</string>
+  <string>MaterialIcons.ttf</string> <!-- For react-native-vector-icons -->
+  <string>FontAwesome.ttf</string> <!-- If using FontAwesome -->
+</array>
+
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
